@@ -10,9 +10,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/github.com/CaptainCodeman/lazy-img.git"
+    "url": "git://github.com/github.com/Alphawong/lazy-img.git"
   },
-  "homepage": "http://captaincodeman.github.io/lazy-img/",
   "name": "@polymer/lazy-img",
   "version": "1.0.0",
   "resolutions": {
@@ -23,7 +22,7 @@
     "@webcomponents/webcomponentsjs": "2.0.0-beta.2"
   },
   "main": "lazy-img.js",
-  "author": "Simon Green <simon@captaincodeman.com>",
+  "author": "Simon Green <alphawong@tuta.io>",
   "license": "MIT",
   "dependencies": {
     "@polymer/polymer": "^3.0.0"
